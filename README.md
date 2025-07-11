@@ -98,14 +98,14 @@ Os dados buscados pelas APIs (FBI e Interpol) são automaticamente armazenados n
 
 ## 🎬 Demonstração do Projeto
 
-Assista aos vídeos de demonstração para entender o funcionamento completo do projeto.
+Assista aos vídeos de demonstração para entender o funcionamento completo do projeto. Clique nas imagens para seguir para o Youtube, recomendo utilizar o botão Ctrl na hora de clicar para abrir uma nova aba.
 
 <p align="center">
   <a href="https://youtu.be/ySwWfOUhNjE">
     <img src="https://img.youtube.com/vi/ySwWfOUhNjE/0.jpg" alt="Programa rodando no IntelliJ" width="80%">
   </a>
   <br>
-  <em>Clique para ir para o site</em>
+  <em>Código Rodando</em>
 </p>
 
 <br>
@@ -115,7 +115,7 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
     <img src="https://img.youtube.com/vi/Tvm5JOr6hg0/0.jpg" alt="Sendo upado e consultando no OracleDB" width="80%">
   </a>
   <br>
-  <em>Sendo upado e consultando no OracleDB</em>
+  <em>OracleDB</em>
 </p>
 
 
