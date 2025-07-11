@@ -105,7 +105,7 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
     <img src="https://img.youtube.com/vi/ySwWF0UhNjE/hqdefault.jpg" alt="Programa rodando no IntelliJ" width="80%">
   </a>
   <br>
-  *Programa rodando no IntelliJ*
+ 
 </p>
 
 <br>
@@ -115,8 +115,10 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
     <img src="https://img.youtube.com/vi/Tvm5IOr6hg0/hqdefault.jpg" alt="Sendo upado e consultando no OracleDB" width="80%">
   </a>
   <br>
-  *Sendo upado e consultando no OracleDB*
+  
 </p>
+
+
 ## 🚀 Como Rodar o Projeto
 
 **Pré-requisitos:**
