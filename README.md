@@ -102,10 +102,10 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
 
 <p align="center">
   <a href="https://youtu.be/ySwWfOUhNjE?si=dqX1MA63mPVjYSFX">
-
+    <img src="./images/thumbnail_video1.png" alt="Programa rodando no IntelliJ" width="80%">
   </a>
   <br>
-
+  *Programa rodando no IntelliJ*
 </p>
 
 <br>
