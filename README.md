@@ -96,6 +96,32 @@ Os dados buscados pelas APIs (FBI e Interpol) são automaticamente armazenados n
 
 ---
 
+## 🎬 Demonstração do Projeto
+
+Assista aos vídeos de demonstração para entender o funcionamento completo do projeto.
+
+<p align="center">
+  <a href="https://youtu.be/ySwWfOUhNjE">
+    <img src="http://googleusercontent.com/youtube.com/vi/13/hqdefault.jpg" alt="Vídeo: Programa rodando no IntelliJ" width="60%">
+  </a>
+</p>
+<p align="center">
+  **[Clique para assistir: Programa rodando no IntelliJ](https://youtu.be/ySwWfOUhNjE)**
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://youtu.be/Tvm5JOr6hg0">
+    <img src="http://googleusercontent.com/youtube.com/vi/14/hqdefault.jpg" alt="Vídeo: Sendo upado e consultando no OracleDB" width="60%">
+  </a>
+</p>
+<p align="center">
+  **[Clique para assistir: Sendo upado e consultando no OracleDB](https://youtu.be/Tvm5JOr6hg0)**
+</p>
+
+---
+
 ## 🚀 Como Rodar o Projeto
 
 **Pré-requisitos:**
@@ -108,11 +134,12 @@ Os dados buscados pelas APIs (FBI e Interpol) são automaticamente armazenados n
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/oporaxuao/catch-de-dados-de-criminosos.git](https://github.com/oporaxuao/catch-de-dados-de-criminosos.git)
+    git clone [https://github.com/oporaxuao/catch-dados-criminosos.git](https://github.com/oporaxuao/catch-dados-criminosos.git)
     ```
+    *(Ajustei o link de clone para o repositório correto `catch-dados-criminosos`.)*
 2.  **Navegue até o diretório do projeto:**
     ```bash
-    cd catch-de-dados-de-criminosos
+    cd catch-dados-criminosos
     ```
 3.  **Configuração do Projeto (Maven/Gradle/IDE):**
     * **Para projetos Maven/Gradle:** Certifique-se de que o `ojdbc8.jar` esteja configurado como uma dependência no seu `pom.xml` ou `build.gradle`, ou adicione-o manualmente ao `lib` e ao *classpath* do seu projeto se não estiver usando um gerenciador de dependências.
@@ -145,9 +172,11 @@ Os dados buscados pelas APIs (FBI e Interpol) são automaticamente armazenados n
             # Certifique-se de que o diretório 'src/main/java' está no classpath
             java -cp .;lib/ojdbc8.jar src/main/java/br/com/fiap/Main
             # Para Linux/macOS
-            java -cp .:lib/ojdbc8.jar src/main/java/br/com/fiap/Main
+            # java -cp .:lib/ojdbc8.jar src/main/java/br/com/fiap/Main
             ```
             *(Se você empacotar o projeto em um JAR, o comando seria mais simples: `java -jar seu-projeto.jar`)*
+
+---
 
 ## Contato
 
