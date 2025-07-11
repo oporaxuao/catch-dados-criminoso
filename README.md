@@ -105,7 +105,7 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
     <img src="https://img.youtube.com/vi/ySwWfOUhNjE/0.jpg" alt="Programa rodando no IntelliJ" width="80%">
   </a>
   <br>
-  <em>Programa rodando no IntelliJ</em>
+  <em>Clique para ir para o site</em>
 </p>
 
 <br>
