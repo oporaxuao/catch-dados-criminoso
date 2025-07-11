@@ -102,25 +102,21 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
 
 <p align="center">
   <a href="https://youtu.be/ySwWfOUhNjE">
-    <img src="http://googleusercontent.com/youtube.com/vi/13/hqdefault.jpg" alt="Vídeo: Programa rodando no IntelliJ" width="60%">
+    <img src="http://googleusercontent.com/youtube.com/vi/13/hqdefault.jpg" alt="Vídeo: Programa rodando no IntelliJ" width="80%">
   </a>
-</p>
-<p align="center">
-  **[Clique para assistir: Programa rodando no IntelliJ](https://youtu.be/ySwWfOUhNjE)**
+  <br>
+  *Programa rodando no IntelliJ*
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://youtu.be/Tvm5JOr6hg0">
-    <img src="http://googleusercontent.com/youtube.com/vi/14/hqdefault.jpg" alt="Vídeo: Sendo upado e consultando no OracleDB" width="60%">
+    <img src="http://googleusercontent.com/youtube.com/vi/14/hqdefault.jpg" alt="Vídeo: Sendo upado e consultando no OracleDB" width="80%">
   </a>
+  <br>
+  *Sendo upado e consultando no OracleDB*
 </p>
-<p align="center">
-  **[Clique para assistir: Sendo upado e consultando no OracleDB](https://youtu.be/Tvm5JOr6hg0)**
-</p>
-
----
 
 ## 🚀 Como Rodar o Projeto
 
