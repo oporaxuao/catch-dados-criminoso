@@ -118,7 +118,6 @@ Assista aos vídeos de demonstração para entender o funcionamento completo do 
   *Sendo upado e consultando no OracleDB*
 </p>
 
-
 ## 🚀 Como Rodar o Projeto
 
 **Pré-requisitos:**
