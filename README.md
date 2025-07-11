@@ -149,20 +149,6 @@ Os dados buscados pelas APIs (FBI e Interpol) são automaticamente armazenados n
             ```
             *(Se você empacotar o projeto em um JAR, o comando seria mais simples: `java -jar seu-projeto.jar`)*
 
----
-
-## Contribuição
-
-(Se você planeja aceitar contribuições, adicione uma seção aqui explicando como as pessoas podem contribuir, quais são as diretrizes, etc. Caso contrário, esta seção pode ser removida.)
-
----
-
-## Licença
-
-Este projeto está licenciado sob a licença [Nome da Licença, por exemplo, MIT License]. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## Contato
 
 * João Alfredo de Sousa Siqueira
